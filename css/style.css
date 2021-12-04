@@ -1,0 +1,59 @@
+.top{
+  margin-top: 50px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  box-shadow: 5px 5px  10px whitesmoke,
+              -5px -5px  10px whitesmoke;
+  background-color: white;
+}
+.top .go{
+  font-size: 100px;
+  color:whitesmoke;
+  margin-left: 11%;
+  background-color:aquamarine ;
+  border-bottom-left-radius:50px;
+  border-bottom-right-radius:50px;
+  border-top-left-radius:50px;
+  border-top-right-radius:50px;
+  margin-top: -5%;
+  margin-left: 150px;
+}
+.top h2{
+  text-align: center;
+}
+.top h5{
+  text-align: center;
+  margin-top: 20px;
+}
+.top .row{
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  box-shadow: 5px 5px 10px whitesmoke,
+              -5px -5px 10px whitesmoke;
+}
+.top .colon{
+  margin-top: 10px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  box-shadow: 5px 5px 10px whitesmoke,
+              -5px -5px 10px whitesmoke;
+}
+.top input{
+      margin-left: 180px;      
+      margin-top: 10px;
+      background-color: white;
+      border-bottom-left-radius:5px;
+      border-bottom-right-radius:5px;
+      border-top-left-radius:5px;
+      border-top-right-radius:5px;
+      margin-bottom:100px ;
+    }
